@@ -8,7 +8,7 @@ Politics(0), Economy(1), Social(2), Life/Culture(3), World(4), Tech/IT(5), Enter
 
 ----
 ## 0. Source Code
-- [Knews_classification.ipynb](https://https://github.com/Moog303/Korean_News_Classification/blob/master/knews_classification.ipynb)
+- [Knews_classification.ipynb](https://github.com/Moog303/Korean_News_Classification/blob/master/knews_classification.ipynb)
 - [Dataset](https://github.com/Moog303/Korean_News_Classification/tree/master/newsData) 0-159 : Train set, 160-199 : Test set
 
 ## 1. Pre-Processing
