@@ -24,10 +24,9 @@ Politics(0), Economy(1), Social(2), Life/Culture(3), World(4), Tech/IT(5), Enter
 - Validation Ratio : 0.15
 - Best Model : CNN (implemented by yoon Kim's paper)
 
-![](./img/model.png = 200x)
-![](./img/result.png = 200x)
-![](./img/modelEvaluation.png=200x)
-
+<img src="./img/model.png" width="200"/>
+<img src="./img/result.png" width="200/">
+<img src="./img/modelEvaluation.png" width="200"/>
 
 ## 4. Reference
 1. 조휘열, et al. "컨볼루션 신경망 기반 대용량 텍스트 데이터 분류 기술." 한국정보과학회 학술발표논문집 (2015): 792-794.
