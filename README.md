@@ -16,7 +16,7 @@ Politics(0), Economy(1), Social(2), Life/Culture(3), World(4), Tech/IT(5), Enter
 - 동사와 명사만 활용
 
 ## 2. Word Embedding
-- Fast Text 사용
+- Fast Text 사용 [ftmodel](https://github.com/Moog303/Korean_News_Classification/blob/master/ftmodel.vec)
 - 32707 Vocab size Word-Vector Model 생성
 
 ## 3. Model
@@ -24,9 +24,9 @@ Politics(0), Economy(1), Social(2), Life/Culture(3), World(4), Tech/IT(5), Enter
 - Validation Ratio : 0.15
 - Best Model : CNN (implemented by yoon Kim's paper)
 <p align ="center">
- <img src="./img/model.png" width="400"/>
- <img src="./img/result.png" width="400/">
- <img src="./img/modelEvaluation.png" width="400"/>
+ <img src="./img/model.png" width="500"/>
+ <img src="./img/result.png" width="500/">
+ <img src="./img/modelEvaluation.png" width="500"/>
 </p>
 
 ## 4. Reference
